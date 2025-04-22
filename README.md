@@ -46,7 +46,7 @@ Here, you will find real-world Cisco GNS3 lab topologies and configurations simu
 ### [2.(Coming Soon)](./Lab02)
 
 <p align="center">
-    <img src="./assets/lab02.png" alt="VLANs and Trunking">
+    <img src="./assets/lab02.png" alt="Coming Soon">
 </p>
 
 ---
