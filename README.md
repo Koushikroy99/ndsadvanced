@@ -35,10 +35,10 @@ Here, you will find real-world Cisco GNS3 lab topologies and configurations simu
 
 ## 🚀 📁 Folder Structure Networking Labs
 
-### [1. Basic OSPF Routing Lab with 5 Routers and 2 PCs](./Lab01)
+### [1. Basic OSPF Routing Lab with 5 Routers and 2 PCs](./Basic%20OSPF%20Routing%20Lab%20with%205%20Routers%20and%202%20PCs)
 
 <p align="center">
-    <img src="./assets/1. OSPF Lab.png" alt="Basic Configuration">
+    <img src="./assets/1. OSPF Lab.png" alt="Basic OSPF Routing Lab with 5 Routers and 2 PCs">
 </p>
 
 ---
