@@ -9,7 +9,11 @@
 ## 📝About this project
 
 Welcome to my **NDS Advanced GNS3 Projects Repository**, inspired by **Sunny Sir** and the **(NDS)** training.  
-Here, you will find real-world Cisco GNS3 lab topologies and configurations simulating advanced enterprise and ISP-level networks. These labs are designed for CCNA, CCNP learners, and networking enthusiasts aiming to enhance hands-on skills using real Cisco IOS images in GNS3.
+This GNS3 project demonstrates OSPF Multi-Area Routing using 7 Cisco routers connected across 3 different OSPF areas, including Area 0 (Backbone) and two additional non-backbone areas (Area 1 & Area 2).
+
+The lab is designed to simulate enterprise-level hierarchical routing, focusing on proper area segmentation, route summarization, and OSPF neighbor establishment.
+It’s ideal for CCNA and CCNP learners looking to strengthen their understanding of multi-area OSPF in a real Cisco IOS environment.
+
 
 ---
 ## Networking Labs
