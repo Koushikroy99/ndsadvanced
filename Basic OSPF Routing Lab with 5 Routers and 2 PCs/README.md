@@ -9,7 +9,7 @@
 ## 📝About this project
 
 Welcome to my **NDS Advanced GNS3 Projects Repository**, inspired by **Sunny Sir** and the **(NDS)** training.  
-Here, you will find real-world Cisco GNS3 lab topologies and configurations simulating advanced enterprise and ISP-level networks. These labs are designed for CCNA, CCNP learners, and networking enthusiasts aiming to enhance hands-on skills using real Cisco IOS images in GNS3.
+This project demonstrates a Basic OSPF (Open Shortest Path First) Routing Lab using GNS3, where 5 Cisco routers (R1–R5) form a single OSPF area. Two end devices (R6 and R7 used as PCs) are connected at the edge through R1 and R5. The lab helps beginners understand OSPF neighbor relationships, routing tables, and network reachability using basic CLI configurations.
 
 ---
 ## Networking Labs
