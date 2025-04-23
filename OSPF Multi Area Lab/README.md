@@ -59,7 +59,7 @@ Here, you will find real-world Cisco GNS3 lab topologies and configurations simu
 ### 🔌 1. Physical Setup in GNS3
 - 🧱 Devices Required:
 - Drag and drop:
-  - 5 Cisco Routers (e.g., Cisco 7200 or 3725 with appropriate IOS)
+  - 7 Cisco Routers (e.g., Cisco 7200 or 3725 with appropriate IOS)
   - Ethernet connections between routers
 ---
 
