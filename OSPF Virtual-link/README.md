@@ -9,7 +9,7 @@
 ## 📝About this project
 
 Welcome to my OSPF Multi-Area + Virtual Link GNS3 Project Repository, inspired by real-world enterprise network design practices.
-This GNS3 project demonstrates OSPF Multi-Area Routing using 7 Cisco routers connected across three different OSPF areas — Area 0 (Backbone), Area 1 (Transit Area), and Area 2 (Standard Area).
+This GNS3 project demonstrates OSPF Multi-Area Routing using 7 Cisco routers connected across three different OSPF areas — Area 2 , Area 1 (Transit Area), and Area 0.
 
 The lab focuses on:
 
@@ -17,7 +17,7 @@ OSPF Area segmentation and hierarchical design.
 
 Manual Router-ID configuration for ABRs (R3 and R5).
 
-Virtual Link implementation between non-directly connected areas (Area 2 to Area 0 via Area 1).
+Virtual Link implementation between non-directly connected areas (Area 2 to Area 1 via Area 0).
 
 Seamless OSPF neighbor adjacency across all routers.
 
