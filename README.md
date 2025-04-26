@@ -51,6 +51,16 @@ Here, you will find real-world Cisco GNS3 lab topologies and configurations simu
 
 ---
 
+
+### [3. OSPF Virtual-link](./OSPF%20Multi%20Area%20Lab)
+
+<p align="center">
+    <img src="./assets/3. OSPF Virtual-link.png" alt="OSPF Virtual-link">
+</p>
+
+---
+
+
 ## 🧾 Lab Structure
 
 Each lab includes:
