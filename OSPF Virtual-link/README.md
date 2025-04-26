@@ -25,7 +25,7 @@ Seamless OSPF neighbor adjacency across all routers.
 ---
 ## Networking Labs
 
-### 2. OSPF Multi Area Lab
+### 2. OSPF Virtual Link Lab
 
 <p align="center">
     <img src="./3. OSPF Virtual-link.png" alt="3. OSPF Virtual-link">
