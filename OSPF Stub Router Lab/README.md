@@ -124,7 +124,7 @@ router ospf 1
  network 10.0.0.0 0.255.255.255 area 0
 
 ```
-### 🔧 R5 Configuration (ABR)
+### 🔧 R5 Configuration 
 ```bash
 conf t
 interface f0/0
