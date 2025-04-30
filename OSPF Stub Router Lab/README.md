@@ -33,7 +33,7 @@ For reducing transit traffic load on a particular router
 </p>
 
 <details>
-<summary><strong>⚙️ OSPF Configuration - 3 Areas + Virtual Link</strong></summary>
+<summary><strong>⚙️ OSPF Configuration - Stub Router</strong></summary>
 
 <br>
 
