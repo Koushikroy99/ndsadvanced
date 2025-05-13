@@ -60,6 +60,12 @@ Here, you will find real-world Cisco GNS3 lab topologies and configurations simu
 
 ---
 
+### [4. OSPF Stub Router Lab](./OSPF%20Stub%20Router%20Lab)
+
+<p align="center">
+    <img src="./assets/5. OSPF Stub Router Lab.png" alt="OSPF Stub Router Lab">
+</p>
+---
 
 ## 🧾 Lab Structure
 
