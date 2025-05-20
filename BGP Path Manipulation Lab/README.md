@@ -180,10 +180,11 @@ router bgp 300
 ```bash
 router bgp 100
  neighbor 50.1.1.20 route-map PREPEND_OUT out
-!
+
 route-map PREPEND_OUT permit 10
  set as-path prepend 100 100 100
 
 ```
 To force traffic to prefer R3 → R5 over R2 → R5, add AS-PATH prepending on R2.
+
 R5 see the path from R2 as longer (AS 100 repeated 3 times), and prefer the shorter path via R3.
