@@ -67,6 +67,23 @@ Here, you will find real-world Cisco GNS3 lab topologies and configurations simu
 </p>
 
 ---
+### [6. BGP RR Lab](./BGP%20RR)
+
+<p align="center">
+    <img src="./assets/6. BGP RR Lab.png" alt="6. BGP RR Lab">
+</p>
+
+---
+
+### [7. BGP Path Manipulation Lab](./BGP%20Path%20Manipulation%20Lab)
+
+<p align="center">
+    <img src="./assets/7. BGP Path Manipulation.png" alt="7. BGP Path Manipulation">
+</p>
+
+---
+
+
 
 ## 🧾 Lab Structure
 
@@ -103,7 +120,7 @@ Each lab includes:
 - **LinkedIn**: [linkedin.com/in/koushikroy99](https://www.linkedin.com/in/koushikroy99/)  
 - **Twitter**: [x.com/koushikroyfx](https://x.com/koushikroyfx)  
 - **Email**: koushikroy05042001@gmail.com  
-- **Portfolio**: [koushikroy.in](https://www.koushikroy.in/)  
+- **Portfolio**: [koushikroy.in](https://www.koushikroy.in/) 
 
 ---
 
