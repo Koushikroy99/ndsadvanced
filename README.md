@@ -82,7 +82,13 @@ Here, you will find real-world Cisco GNS3 lab topologies and configurations simu
 </p>
 
 ---
+### [8. MPLS and LDP Neighbor Relationship Lab](./MPLS%20and%20LDP%20Neighbor%20Relationship)
 
+<p align="center">
+    <img src="./assets/MPLS and LDP Neighbor Relationship.png" alt="8. MPLS and LDP Neighbor Relationship">
+</p>
+
+---
 
 
 ## 🧾 Lab Structure
