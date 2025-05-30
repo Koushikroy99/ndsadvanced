@@ -22,7 +22,7 @@ Provider Router (P): This is also an ISP router, usually working as a core route
 ---
 ## Networking Labs
 
-### MPLS and LDP Neighbor Relationship
+### 8. MPLS and LDP Neighbor Relationship
 
 <p align="center">
     <img src="./MPLS and LDP Neighbor Relationship.png" alt="MPLS and LDP Neighbor Relationship Lab">
