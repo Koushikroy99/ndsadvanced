@@ -22,10 +22,10 @@ Provider Router (P): This is also an ISP router, usually working as a core route
 ---
 ## Networking Labs
 
-### 5. MPLS and LDP Neighbor Relationship
+### MPLS and LDP Neighbor Relationship
 
 <p align="center">
-    <img src="./5. OSPF Stub Router Lab.png" alt="5. OSPF Stub Router Lab">
+    <img src="./MPLS and LDP Neighbor Relationship.png" alt="MPLS and LDP Neighbor Relationship Lab">
 </p>
 
 <details>
