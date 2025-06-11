@@ -19,7 +19,7 @@ This GNS3-based lab demonstrates advanced switching concepts like VLAN segmentat
 ### Switch Lab
 
 <p align="center">
-    <img src="./Switch.png" alt="Switch Lab">
+    <img src="./Switch Lab.png" alt="Switch Lab">
 </p>
 
 <details>
@@ -141,9 +141,9 @@ Switch(config-if)# switchport access vlan 50
 ```
 ### 🔧 SW-4TH-FLR (VTP Client) Configuration
 ```bash
-Switch(config)# vtp domain MyCompany
+Switch(config)# vtp domain NG
 Switch(config)# vtp mode client
-Switch(config)# vtp password MyVTPpass
+Switch(config)# vtp password NG123
 
 ! Trunk configuration
 Switch(config)# interface e0
