@@ -23,19 +23,9 @@ This GNS3-based lab demonstrates advanced switching concepts like VLAN segmentat
 </p>
 
 <details>
-<summary><strong>⚙️ OSPF Configuration - VLAN, Trunk, VTP & Pruning</strong></summary>
+<summary><strong>⚙️ Configuration - VLAN, Trunk, VTP & Pruning</strong></summary>
 
 <br>
-
-## 🧩 Network Topology:
-- **4 Routers** (R1 to R7)
-- OSPF divided into **3 areas**:
-  - **Area 2:** R1 ↔ R2 ↔ R3
-  - **Area 1 (Transit Area):** R3 ↔ R4 ↔ R5
-  - **Area 0:** R5 ↔ R6 ↔ R7
-- ABRs: **R3** and **R5**
-
----
 
 ## 🌐 Network Plan Summary:
 
