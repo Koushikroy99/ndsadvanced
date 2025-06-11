@@ -57,6 +57,7 @@ SW-4TH-FLR (VTP Client)
 6 End Devices (VPCS or Virtual PCs)
 
 IT-PC1, HR-PC1, SALES-PC1, MARK-PC1, IT-PC2, FINANCE-PC1
+
 ---
 
 ### 🔧 SW-1ST-FLR (VTP Server) Configuration
