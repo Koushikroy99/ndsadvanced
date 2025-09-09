@@ -11,6 +11,8 @@
 Welcome to my **ISP Advanced Project**, guided by **Gurdepinder Dhillon Sir**.  
 This project demonstrates a complete MPLS Layer 3 VPN implementation simulating an ISP network with multiple enterprise customers. The lab features MPLS core infrastructure, VRFs for customer isolation, BGP routing, and out-of-band management.
 
+![MPLS L3VPN Topology](./ispplan.png)
+
 ---
 
 ## 🧠 What's Inside?
@@ -608,5 +610,6 @@ Airtel Network Operations Center
 - **Portfolio**: [koushikroy.in](https://www.koushikroy.in/) 
 
 ---
+
 
 > 🔔 **Star** this repo if you find it helpful. Contributions and feedback are welcome!
