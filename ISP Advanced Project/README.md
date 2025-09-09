@@ -607,9 +607,10 @@ Airtel Network Operations Center
 - **LinkedIn**: [linkedin.com/in/koushikroy99](https://www.linkedin.com/in/koushikroy99/)  
 - **Twitter**: [x.com/koushikroyfx](https://x.com/koushikroyfx)  
 - **Email**: koushikroy05042001@gmail.com  
-- **Portfolio**: [koushikroy.in](https://www.koushikroy.in/) 
+- **Portfolio**: [koushikroy.in](https://koushikportfolio.vercel.app/) 
 
 ---
 
 
 > 🔔 **Star** this repo if you find it helpful. Contributions and feedback are welcome!
+
